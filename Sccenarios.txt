@@ -1,5 +1,6 @@
+---------------------------
 Scenarios for Calculator:
------------------------------------
+---------------------------
 
 Basic Arithmetic Operations:
 
@@ -37,8 +38,12 @@ Order of Operations:
 
 	Test complex expressions with parentheses to ensure accurate results.
 
+
+
+-----------------------
 Scenarios for Watch:
---------------------------
+-----------------------
+
 
 Timekeeping:
 
@@ -70,8 +75,11 @@ Date and Calendar:
 
 	Test the calendar feature if available.
 
+
+
+---------------------------------------------------
 Scenarios for Sign Up page of Gmail or Flipkart:
--------------------------------------------------------
+---------------------------------------------------
 
 User Registration:
 
